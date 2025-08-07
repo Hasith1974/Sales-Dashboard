@@ -54,10 +54,8 @@ This interactive Tableau dashboard provides a comprehensive overview of global s
 
 ### 🌐 View the Live Dashboard
 
-🔗 **[Click here to view the dashboard on Tableau Public](https://public.tableau.com/app/profile/your-dashboard-link-here)**
-*(Replace the link above with your actual Tableau Public URL)*
+🔗 **[Click here to view the dashboard on Tableau Public](https://public.tableau.com/views/Dashbaord-Sales_17177510514960/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
----
 
 ### 🛠️ Tools Used
 
